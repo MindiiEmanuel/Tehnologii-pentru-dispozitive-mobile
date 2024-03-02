@@ -1,4 +1,4 @@
-# flutter_application_licenta
+# Flutter_DentalApp
 
 A new Flutter project.
 
